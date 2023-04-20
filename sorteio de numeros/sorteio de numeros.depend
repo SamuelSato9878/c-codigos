@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677849643 source:c:\users\55999\desktop\programs de exercicio em c\sorteio de numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
