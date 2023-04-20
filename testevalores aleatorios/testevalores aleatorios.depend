@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675627975 source:c:\users\55999\desktop\programs de exercicio em c\testevalores aleatorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
