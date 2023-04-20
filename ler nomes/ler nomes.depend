@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678288727 source:c:\users\55999\desktop\programs de exercicio em c\ler nomes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

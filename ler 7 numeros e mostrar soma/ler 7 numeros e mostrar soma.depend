@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677795801 source:c:\users\55999\desktop\programs de exercicio em c\ler 7 numeros e mostrar soma\main.c
+	<stdio.h>
+	<stdlib.h>
+
