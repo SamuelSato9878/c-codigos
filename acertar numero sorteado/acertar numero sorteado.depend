@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677950915 source:c:\users\55999\desktop\programs de exercicio em c\acertar numero sorteado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

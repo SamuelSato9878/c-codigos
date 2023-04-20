@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678412589 source:c:\users\55999\desktop\programs de exercicio em c\idade, sexo, nome de varias pessoas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
